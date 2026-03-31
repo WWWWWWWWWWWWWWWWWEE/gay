@@ -132,7 +132,7 @@ local function launchMainSystem(discordData)
 
     local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
     local Window = Rayfield:CreateWindow({
-        Name = "PGTRD v22.1",
+        Name = "PGTRD Original Autobuild",
         LoadingTitle = "Authenticated: " .. discordName,
         LoadingSubtitle = "by PGTRD"
     })
